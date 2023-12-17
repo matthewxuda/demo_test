@@ -1,0 +1,70 @@
+{
+  "uid" : "f0fb377c7d2120cf",
+  "name" : "test_get_users",
+  "fullName" : "api_automation.tests.api_tests.test_get_users#test_get_users",
+  "historyId" : "d51e0bd929e95756e110c0a9b3350d3e",
+  "time" : {
+    "start" : 1702814372427,
+    "stop" : 1702814373036,
+    "duration" : 609
+  },
+  "description" : "\n    Test to get the list of users.\n    ",
+  "descriptionHtml" : "<pre><code>Test to get the list of users.\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1702814370739,
+      "stop" : 1702814370823,
+      "duration" : 84
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "api_automation.tests.api_tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_get_users"
+  }, {
+    "name" : "host",
+    "value" : "P_DWXU-MB0"
+  }, {
+    "name" : "thread",
+    "value" : "5876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "api_automation.tests.api_tests.test_get_users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0fb377c7d2120cf.json",
+  "parameterValues" : [ ]
+}

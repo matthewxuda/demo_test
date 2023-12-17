@@ -1,0 +1,61 @@
+[ {
+  "uid" : "d42beac92509af32",
+  "name" : "test_chrome",
+  "time" : {
+    "start" : 1702814373040,
+    "stop" : 1702814428765,
+    "duration" : 55725
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98469eac7c7ec593",
+  "name" : "test_create_user[John-john@feil.test-female-active-201]",
+  "time" : {
+    "start" : 1702814371406,
+    "stop" : 1702814371910,
+    "duration" : 504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6479c23cf228cb90",
+  "name" : "test_create_user[John-john1702198883@feil.test-female-active-201]",
+  "time" : {
+    "start" : 1702814371918,
+    "stop" : 1702814372420,
+    "duration" : 502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0fb377c7d2120cf",
+  "name" : "test_get_users",
+  "time" : {
+    "start" : 1702814372427,
+    "stop" : 1702814373036,
+    "duration" : 609
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebb85844f0ce0868",
+  "name" : "test_find_chrome",
+  "time" : {
+    "start" : 1702814428803,
+    "stop" : 1702814458400,
+    "duration" : 29597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1c6139a7c9632c",
+  "name" : "test_create_user[David-david@feil.test-male-inactive-201]",
+  "time" : {
+    "start" : 1702814370825,
+    "stop" : 1702814371398,
+    "duration" : 573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

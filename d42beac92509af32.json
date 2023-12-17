@@ -1,0 +1,87 @@
+{
+  "uid" : "d42beac92509af32",
+  "name" : "test_chrome",
+  "fullName" : "ui_automation.tests.test_driver.Test#test_chrome",
+  "historyId" : "5d77a3172122f5e84b3df3da888c6957",
+  "time" : {
+    "start" : 1702814373040,
+    "stop" : 1702814428765,
+    "duration" : 55725
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1702814370739,
+      "stop" : 1702814370823,
+      "duration" : 84
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "34fc5a9b7a18fc33",
+      "name" : "case success",
+      "source" : "34fc5a9b7a18fc33.png",
+      "type" : "image/png",
+      "size" : 109049
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "ui_automation.tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_driver"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "P_DWXU-MB0"
+  }, {
+    "name" : "thread",
+    "value" : "5876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "ui_automation.tests.test_driver"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d42beac92509af32.json",
+  "parameterValues" : [ ]
+}

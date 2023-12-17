@@ -1,0 +1,107 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "api_automation.tests.api_tests",
+    "children" : [ {
+      "name" : "test_create_user",
+      "children" : [ {
+        "name" : "test_create_user[David-david@feil.test-male-inactive-201]",
+        "uid" : "a1c6139a7c9632c",
+        "parentUid" : "21a6fbdb3ce989d9962848e1f6a71c1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814370825,
+          "stop" : 1702814371398,
+          "duration" : 573
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'david@feil.test'", "201", "'male'", "'David'", "'inactive'" ]
+      }, {
+        "name" : "test_create_user[John-john@feil.test-female-active-201]",
+        "uid" : "98469eac7c7ec593",
+        "parentUid" : "21a6fbdb3ce989d9962848e1f6a71c1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814371406,
+          "stop" : 1702814371910,
+          "duration" : 504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'john@feil.test'", "201", "'female'", "'John'", "'active'" ]
+      }, {
+        "name" : "test_create_user[John-john1702198883@feil.test-female-active-201]",
+        "uid" : "6479c23cf228cb90",
+        "parentUid" : "21a6fbdb3ce989d9962848e1f6a71c1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814371918,
+          "stop" : 1702814372420,
+          "duration" : 502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'john1702198883@feil.test'", "201", "'female'", "'John'", "'active'" ]
+      } ],
+      "uid" : "21a6fbdb3ce989d9962848e1f6a71c1a"
+    }, {
+      "name" : "test_get_users",
+      "children" : [ {
+        "name" : "test_get_users",
+        "uid" : "f0fb377c7d2120cf",
+        "parentUid" : "283c4c910062c7fe844b95318f1b8802",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814372427,
+          "stop" : 1702814373036,
+          "duration" : 609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "283c4c910062c7fe844b95318f1b8802"
+    } ],
+    "uid" : "api_automation.tests.api_tests"
+  }, {
+    "name" : "ui_automation.tests",
+    "children" : [ {
+      "name" : "test_driver",
+      "children" : [ {
+        "name" : "test_chrome",
+        "uid" : "d42beac92509af32",
+        "parentUid" : "23e81e020d86bcede1e0f189b8e4ca2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814373040,
+          "stop" : 1702814428765,
+          "duration" : 55725
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "23e81e020d86bcede1e0f189b8e4ca2f"
+    }, {
+      "name" : "step_definition.test_login_page1",
+      "children" : [ {
+        "name" : "test_find_chrome",
+        "uid" : "ebb85844f0ce0868",
+        "parentUid" : "d2a9b92a2fbf68173986e796b74874b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1702814428803,
+          "stop" : 1702814458400,
+          "duration" : 29597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "step_definition.test_login_page1"
+    } ],
+    "uid" : "ui_automation.tests"
+  } ]
+}

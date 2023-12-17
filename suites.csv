@@ -1,0 +1,15 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 17 19:59:33 CST 2023","Sun Dec 17 20:00:28 CST 2023","55725","ui_automation.tests","test_driver","Test","","","test_chrome",""
+"passed","Sun Dec 17 19:59:31 CST 2023","Sun Dec 17 19:59:31 CST 2023","504","api_automation.tests.api_tests","test_create_user","","","","test_create_user[John-john@feil.test-female-active-201]","
+    Test to create a new user.
+    "
+"passed","Sun Dec 17 19:59:31 CST 2023","Sun Dec 17 19:59:32 CST 2023","502","api_automation.tests.api_tests","test_create_user","","","","test_create_user[John-john1702198883@feil.test-female-active-201]","
+    Test to create a new user.
+    "
+"passed","Sun Dec 17 19:59:32 CST 2023","Sun Dec 17 19:59:33 CST 2023","609","api_automation.tests.api_tests","test_get_users","","","","test_get_users","
+    Test to get the list of users.
+    "
+"passed","Sun Dec 17 20:00:28 CST 2023","Sun Dec 17 20:00:58 CST 2023","29597","ui_automation.tests.step_definition","test_login_page1","TestAppium","","","test_find_chrome",""
+"passed","Sun Dec 17 19:59:30 CST 2023","Sun Dec 17 19:59:31 CST 2023","573","api_automation.tests.api_tests","test_create_user","","","","test_create_user[David-david@feil.test-male-inactive-201]","
+    Test to create a new user.
+    "

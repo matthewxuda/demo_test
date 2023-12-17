@@ -1,0 +1,85 @@
+{
+  "uid" : "a1c6139a7c9632c",
+  "name" : "test_create_user[David-david@feil.test-male-inactive-201]",
+  "fullName" : "api_automation.tests.api_tests.test_create_user#test_create_user",
+  "historyId" : "51f99c2f7f2becfcf36705188307bb5a",
+  "time" : {
+    "start" : 1702814370825,
+    "stop" : 1702814371398,
+    "duration" : 573
+  },
+  "description" : "\n    Test to create a new user.\n    ",
+  "descriptionHtml" : "<pre><code>Test to create a new user.\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1702814370739,
+      "stop" : 1702814370823,
+      "duration" : 84
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "api_automation.tests.api_tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_create_user"
+  }, {
+    "name" : "host",
+    "value" : "P_DWXU-MB0"
+  }, {
+    "name" : "thread",
+    "value" : "5876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "api_automation.tests.api_tests.test_create_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "email",
+    "value" : "'david@feil.test'"
+  }, {
+    "name" : "expected_code",
+    "value" : "201"
+  }, {
+    "name" : "gender",
+    "value" : "'male'"
+  }, {
+    "name" : "name",
+    "value" : "'David'"
+  }, {
+    "name" : "status",
+    "value" : "'inactive'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1c6139a7c9632c.json",
+  "parameterValues" : [ "'david@feil.test'", "201", "'male'", "'David'", "'inactive'" ]
+}

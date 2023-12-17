@@ -1,0 +1,85 @@
+{
+  "uid" : "6479c23cf228cb90",
+  "name" : "test_create_user[John-john1702198883@feil.test-female-active-201]",
+  "fullName" : "api_automation.tests.api_tests.test_create_user#test_create_user",
+  "historyId" : "6d99026f155222c28e148730d16bbb36",
+  "time" : {
+    "start" : 1702814371918,
+    "stop" : 1702814372420,
+    "duration" : 502
+  },
+  "description" : "\n    Test to create a new user.\n    ",
+  "descriptionHtml" : "<pre><code>Test to create a new user.\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1702814370739,
+      "stop" : 1702814370823,
+      "duration" : 84
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "api_automation.tests.api_tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_create_user"
+  }, {
+    "name" : "host",
+    "value" : "P_DWXU-MB0"
+  }, {
+    "name" : "thread",
+    "value" : "5876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "api_automation.tests.api_tests.test_create_user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "email",
+    "value" : "'john1702198883@feil.test'"
+  }, {
+    "name" : "expected_code",
+    "value" : "201"
+  }, {
+    "name" : "gender",
+    "value" : "'female'"
+  }, {
+    "name" : "name",
+    "value" : "'John'"
+  }, {
+    "name" : "status",
+    "value" : "'active'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6479c23cf228cb90.json",
+  "parameterValues" : [ "'john1702198883@feil.test'", "201", "'female'", "'John'", "'active'" ]
+}

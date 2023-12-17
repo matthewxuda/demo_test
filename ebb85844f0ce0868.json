@@ -1,0 +1,101 @@
+{
+  "uid" : "ebb85844f0ce0868",
+  "name" : "test_find_chrome",
+  "fullName" : "ui_automation.tests.step_definition.test_login_page1.TestAppium#test_find_chrome",
+  "historyId" : "7ce70a33971caaa585242f640680d2e1",
+  "time" : {
+    "start" : 1702814428803,
+    "stop" : 1702814458400,
+    "duration" : 29597
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_session_faker",
+    "time" : {
+      "start" : 1702814370739,
+      "stop" : 1702814370823,
+      "duration" : 84
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "_unittest_setUpClass_fixture_TestAppium",
+    "time" : {
+      "start" : 1702814428798,
+      "stop" : 1702814428800,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "_unittest_setUpClass_fixture_TestAppium::0",
+    "time" : {
+      "start" : 1702814458405,
+      "stop" : 1702814458407,
+      "duration" : 2
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "ui_automation.tests.step_definition"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_page1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAppium"
+  }, {
+    "name" : "host",
+    "value" : "P_DWXU-MB0"
+  }, {
+    "name" : "thread",
+    "value" : "5876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "ui_automation.tests.step_definition.test_login_page1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebb85844f0ce0868.json",
+  "parameterValues" : [ ]
+}
