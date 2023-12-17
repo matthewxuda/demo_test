@@ -1,0 +1,17 @@
+- name: David
+  email: david@feil.test
+  gender: male
+  status: inactive
+  expected_code: 201
+
+- name: John
+  email: john@feil.test
+  gender: female
+  status: active
+  expected_code: 201
+
+- name: John
+  email: john1702198883@feil.test
+  gender: female
+  status: active
+  expected_code: 201
